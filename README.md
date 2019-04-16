@@ -1,6 +1,6 @@
 # TranslatorBot
-A chatbot that translates text input, it uses Google Translate to translate the text and 
-Chatterbot 
+A chatbot that translates text input. It uses Google Translate to translate the input text and 
+Chatterbotfrom Gunther Cox
 
 https://github.com/gunthercox/ChatterBot
 
